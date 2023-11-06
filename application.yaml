@@ -1,1 +1,11 @@
-
+URL: https://developer.nrel.gov/api/alt-fuel-stations/v1/nearest.json
+filename: demoapp2.json
+location: Denver%20%26Co
+api_key: 4vbCYgvks3ENrwIkme7yggy090BXi1Xle7nKAfEO
+projectIdName: dynamic-density-403210
+bucketName: salads_packets01
+projectId: 141644260302
+geoLocation: global
+dataStore: demo-unstruct-ds_1698327774258
+branch: 0
+input_URL: gs://salads_packets01/demoapp2.json
